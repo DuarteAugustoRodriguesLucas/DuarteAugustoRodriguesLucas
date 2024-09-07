@@ -1,4 +1,4 @@
-### Duarte Lucas
+### Hi, i am Duarte Lucas
 
 💾 Software Engineer 
 🎓 Studied at Universidade do Minho, Braga
