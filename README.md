@@ -1,7 +1,9 @@
 ### Hi, i am Duarte Lucas
 
-💾 Junior Software Engineer 
+💾 Junior Software Engineer
+
 🎓 Studied at Universidade do Minho, Braga
+
 🧠 Master in Intelligent Systems (IA) and Software Development, Validation and Maintenance (SDVM)
 
 
